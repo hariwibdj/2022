@@ -1,5 +1,4 @@
 belajar github
 - registrasi ke github
-- verifikasi ke email
 - kalau udah login ke github
 - buat repo baru
