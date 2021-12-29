@@ -1,0 +1,3 @@
+belajar github
+- registrasi ke github
+- verifikasi ke email
