@@ -2,3 +2,4 @@ rencana content
 - laravel
 video
 php
+-fundamental struct
